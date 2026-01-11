@@ -1,9 +1,9 @@
 package main
 
 import (
-	"cloudflare-ddns/internal/config"
-	"cloudflare-ddns/internal/logger"
-	"cloudflare-ddns/internal/updater"
+	"github.com/jc21/cloudflare-ddns/internal/config"
+	"github.com/jc21/cloudflare-ddns/internal/logger"
+	"github.com/jc21/cloudflare-ddns/internal/updater"
 )
 
 func main() {

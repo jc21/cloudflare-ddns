@@ -1,7 +1,7 @@
 package logger
 
 import (
-	"cloudflare-ddns/internal/model"
+	"github.com/jc21/cloudflare-ddns/internal/model"
 
 	"github.com/mborders/logmatic"
 )

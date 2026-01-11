@@ -4,7 +4,7 @@ import (
 	"os/user"
 	"strings"
 
-	"cloudflare-ddns/internal/logger"
+	"github.com/jc21/cloudflare-ddns/internal/logger"
 )
 
 // GetFullFilename replaces wildcards in filenames

@@ -6,9 +6,9 @@ import (
 	"io"
 	"os"
 
-	"cloudflare-ddns/internal/helper"
-	"cloudflare-ddns/internal/logger"
-	"cloudflare-ddns/internal/model"
+	"github.com/jc21/cloudflare-ddns/internal/helper"
+	"github.com/jc21/cloudflare-ddns/internal/logger"
+	"github.com/jc21/cloudflare-ddns/internal/model"
 
 	"github.com/AlecAivazis/survey/v2"
 	"github.com/JeremyLoy/config"

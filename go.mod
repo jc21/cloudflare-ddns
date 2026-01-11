@@ -1,14 +1,14 @@
-module cloudflare-ddns
+module github.com/jc21/cloudflare-ddns
 
 go 1.24
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/JeremyLoy/config v1.5.0
-	github.com/alexflint/go-arg v1.6.0
+	github.com/alexflint/go-arg v1.6.1
 	github.com/cloudflare/cloudflare-go/v4 v4.6.0
 	github.com/glendc/go-external-ip v0.1.0
-	github.com/gregdel/pushover v1.3.1
+	github.com/gregdel/pushover v1.4.0
 	github.com/mborders/logmatic v0.4.0
 )
 
