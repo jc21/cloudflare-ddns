@@ -27,7 +27,7 @@ RPM hosted on [yum.jc21.com](https://yum.jc21.com)
 #### Go install
 
 ```bash
-go install github.com/jc21/cloudflare-ddns@latest
+go install github.com/jc21/cloudflare-ddns/cmd/cloudflare-ddns@latest
 ```
 
 #### Building
